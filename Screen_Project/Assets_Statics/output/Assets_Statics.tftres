@@ -1,0 +1,15 @@
+<Resource>
+    <pages>
+        <page name="0_主页面" id="0" />
+        <page name="1_数据记录" id="1" />
+    </pages>
+    <images>
+        <image id="0" url="c:\myfile\file\毕业设计\screen_project\assets_statics\Images\1.jpg" effect_width="800" effect_height="480" />
+        <image id="1" url="c:\myfile\file\毕业设计\screen_project\assets_statics\Images\2.jpg" effect_width="800" effect_height="480" />
+        <image id="2" url="c:\myfile\file\毕业设计\screen_project\assets_statics\Images\6.PNG" effect_width="78" effect_height="69" />
+        <image id="3" url="c:\myfile\file\毕业设计\screen_project\assets_statics\Images\3.jpg" effect_width="800" effect_height="480" />
+        <image id="4" url="c:\myfile\file\毕业设计\screen_project\assets_statics\Images\5.PNG" effect_width="800" effect_height="48" />
+        <image id="5" url="c:\myfile\file\毕业设计\screen_project\assets_statics\Images\4.PNG" effect_width="72" effect_height="46" />
+    </images>
+    <waves />
+</Resource>

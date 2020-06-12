@@ -1,0 +1,3 @@
+RFID读写模块设置——UHF RFID Demo.exe
+串口屏软件——VisualTFT（http://www.gz-dc.com/category/typeid/8）
+单片机开发软禁——Keil5

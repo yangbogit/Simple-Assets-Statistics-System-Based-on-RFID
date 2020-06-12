@@ -1,0 +1,13 @@
+STM32F103VET6 野火指南者开发板——https://detail.tmall.com/item.htm?spm=a1z10.5-b.w401122026361158.60.3b8e7293a8cB8y&id=600742299018&rn=4d68a1bb27f4eae451bb4f65fffe7864&abbucket=6
+
+UM202 UHF RFID 读写模块——https://item.taobao.com/item.htm?spm=a1z09.2.0.0.496e2e8dRb630x&id=578434591968&_u=q2piblba5619
+
+UHF RFID 天线——https://item.taobao.com/item.htm?spm=a1z09.2.0.0.496e2e8dRb630x&id=575199107869&_u=q2piblba3069
+
+信号屏蔽线——https://item.taobao.com/item.htm?spm=a1z09.2.0.0.496e2e8dRb630x&id=578383522777&_u=q2piblba7a95
+
+RFID 电子标签——https://item.taobao.com/item.htm?spm=a1z09.2.0.0.496e2e8dRb630x&id=598700591235&_u=q2piblba727b
+
+串口触摸屏——https://item.taobao.com/item.htm?spm=a230r.1.14.19.5c5d3ae805hHzQ&id=589446724678&ns=1&abbucket=16#detail
+
+zigbee——https://item.taobao.com/item.htm?spm=a1z09.2.0.0.6b602e8dHqtfwO&id=536534170165&_u=q2piblbae420
